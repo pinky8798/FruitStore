@@ -25,3 +25,11 @@ Refer : https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=RDCMUCWv7vMbMWH4-V0ZXdm
 
 Images used were browsed using the below url : 
 https://commons.wikimedia.org/w/index.php?search=persimmon&title=Special:MediaSearch&go=Go&type=image
+
+
+
+
+Output :
+
+
+<img width="1789" alt="Screenshot 2024-01-08 at 8 15 55 PM" src="https://github.com/pinky8798/FruitStore/assets/22396760/9129e13a-16b5-49b8-b51c-df3315191efb">
