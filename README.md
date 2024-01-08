@@ -21,3 +21,4 @@ python3 manage.py migrate
 django-admin startproject pyshop (We run this command only once i.e; while we create a webpage for the first time)
 python3 manage.py runserver
 
+Refer : https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=RDCMUCWv7vMbMWH4-V0ZXdmDpPBA&start_radio=1
