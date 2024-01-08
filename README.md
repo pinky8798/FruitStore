@@ -22,3 +22,6 @@ django-admin startproject pyshop (We run this command only once i.e; while we cr
 python3 manage.py runserver
 
 Refer : https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=RDCMUCWv7vMbMWH4-V0ZXdmDpPBA&start_radio=1
+
+Images used were browsed using the below url : 
+https://commons.wikimedia.org/w/index.php?search=persimmon&title=Special:MediaSearch&go=Go&type=image
